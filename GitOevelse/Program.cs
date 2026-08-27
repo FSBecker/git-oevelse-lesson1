@@ -1,7 +1,2 @@
 ﻿Miav Miav = new Miav();
-
-
-
-
-
-Miav.MiavLoop();  // BETTER COMMENT
+Miav.MiavLoop();  // MR WHITE YO
