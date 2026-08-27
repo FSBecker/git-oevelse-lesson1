@@ -1,2 +1,2 @@
 ﻿Miav Miav = new Miav();
-Miav.MiavLoop();
+Miav.MiavLoop(); //Konflikt opgave Frederik
