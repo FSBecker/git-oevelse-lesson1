@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitOevelse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2e5711834ef9fbe63e9376f7c7cb6b9c8182085")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35346cca816aeaa7419f4a8478445f8962c75431")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitOevelse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitOevelse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

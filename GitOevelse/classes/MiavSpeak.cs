@@ -5,12 +5,14 @@ class Miav
     public void MiavLoop()
     {
         bool isUsing = true;
-        Console.WriteLine("You see a cat, what do you do?");
+        Console.WriteLine("You see a cat, what is its name?");
+        string name = Console.ReadLine();
+        Console.WriteLine(name + " is so cute, what do you do?");
         while (isUsing)
         {
             string input = Console.ReadLine();
             string output = MiavCalc(input);
-            Console.WriteLine(output);
+            Console.WriteLine(name + ": " + output);
             if (input == "exit")
             {
                 Console.ReadKey();
