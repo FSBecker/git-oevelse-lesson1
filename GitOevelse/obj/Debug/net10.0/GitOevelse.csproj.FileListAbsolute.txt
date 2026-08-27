@@ -1,0 +1,15 @@
+/home/frederik/Coding/CSharp/Hub/git-oevelse-lesson1/GitOevelse/bin/Debug/net10.0/GitOevelse
+/home/frederik/Coding/CSharp/Hub/git-oevelse-lesson1/GitOevelse/bin/Debug/net10.0/GitOevelse.deps.json
+/home/frederik/Coding/CSharp/Hub/git-oevelse-lesson1/GitOevelse/bin/Debug/net10.0/GitOevelse.runtimeconfig.json
+/home/frederik/Coding/CSharp/Hub/git-oevelse-lesson1/GitOevelse/bin/Debug/net10.0/GitOevelse.dll
+/home/frederik/Coding/CSharp/Hub/git-oevelse-lesson1/GitOevelse/bin/Debug/net10.0/GitOevelse.pdb
+/home/frederik/Coding/CSharp/Hub/git-oevelse-lesson1/GitOevelse/obj/Debug/net10.0/GitOevelse.GeneratedMSBuildEditorConfig.editorconfig
+/home/frederik/Coding/CSharp/Hub/git-oevelse-lesson1/GitOevelse/obj/Debug/net10.0/GitOevelse.AssemblyInfoInputs.cache
+/home/frederik/Coding/CSharp/Hub/git-oevelse-lesson1/GitOevelse/obj/Debug/net10.0/GitOevelse.AssemblyInfo.cs
+/home/frederik/Coding/CSharp/Hub/git-oevelse-lesson1/GitOevelse/obj/Debug/net10.0/GitOevelse.csproj.CoreCompileInputs.cache
+/home/frederik/Coding/CSharp/Hub/git-oevelse-lesson1/GitOevelse/obj/Debug/net10.0/GitOevelse.sourcelink.json
+/home/frederik/Coding/CSharp/Hub/git-oevelse-lesson1/GitOevelse/obj/Debug/net10.0/GitOevelse.dll
+/home/frederik/Coding/CSharp/Hub/git-oevelse-lesson1/GitOevelse/obj/Debug/net10.0/refint/GitOevelse.dll
+/home/frederik/Coding/CSharp/Hub/git-oevelse-lesson1/GitOevelse/obj/Debug/net10.0/GitOevelse.pdb
+/home/frederik/Coding/CSharp/Hub/git-oevelse-lesson1/GitOevelse/obj/Debug/net10.0/GitOevelse.genruntimeconfig.cache
+/home/frederik/Coding/CSharp/Hub/git-oevelse-lesson1/GitOevelse/obj/Debug/net10.0/ref/GitOevelse.dll
